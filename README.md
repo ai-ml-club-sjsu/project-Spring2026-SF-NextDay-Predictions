@@ -1,7 +1,7 @@
 # AI/ML Club - [Project Title]
 
 **Academic Year:** 2025-2026 Fall Semester  
-**Project Duration:** September 2025 - December 2025
+**Project Duration:** Febraury 2026 - May 2026
 
 ## Project Description
 

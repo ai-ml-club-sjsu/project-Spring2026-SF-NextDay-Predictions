@@ -1,4 +1,4 @@
-# AI/ML Club - [Project Title]
+# AI/ML Club - Next Day SF Predictions
 
 **Academic Year:** 2025-2026 Fall Semester  
 **Project Duration:** Febraury 2026 - May 2026

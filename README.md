@@ -5,7 +5,7 @@
 
 ## Project Description
 
-[Brief description of your project - 2-3 sentences explaining what the project aims to accomplish and its main objectives.]
+The goal of our project is to build on the idea of navigation apps like Waze by using machine learning models to predict next-day traffic patterns. Many people struggle to know when to leave for important meetings, school, work, or appointments because traffic can be unpredictable. Our system helps users plan their travel ahead of time by giving them traffic predictions for the next day, allowing them to make better decisions about when to start their trip.
 
 **Key Objectives:**
 - Predict Next Day Traffic Conditions in San Francisco
@@ -119,6 +119,7 @@ https://github.com/srihanrc/Next-Day-SF-Predictions
    ```bash
    pip install -r requirements.txt
    ```
+   pip install flask flask-cors joblib pandas numpy scikit-learn xgboost peewee psycopg[binary] python-dotenv
    '''
       npm create vite@latest my-react-app -- --template react
       cd my-react-app
